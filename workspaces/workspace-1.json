@@ -1,0 +1,24 @@
+// vim:ts=4:sw=4:et
+{
+    "border": "pixel",
+    "current_border_width": 10,
+    "floating": "auto_off",
+    "geometry": {
+       "height": 435,
+       "width": 654,
+       "x": 0,
+       "y": 0
+    },
+    "name": "daniel@zubook: ~/work/experience-camping",
+    "percent": 1,
+    "swallows": [
+       {
+       // "class": "^Gnome\\-terminal$",
+       // "instance": "^gnome\\-terminal\\-server$",
+       // "title": "^daniel\\@zubook\\:\\ \\~\\/work\\/experience\\-camping$",
+       // "window_role": "^gnome\\-terminal\\-window\\-30c97788\\-700d\\-4f02\\-9d78\\-07d64b87535c$"
+       }
+    ],
+    "type": "con"
+}
+
